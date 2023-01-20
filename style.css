@@ -2,10 +2,9 @@ body {
   background-color: aqua;
   text-align: center;
 }
-li {
-  list-style: none;
+ul {
+  list-style-type: none;
 }
-li a {
+li {
   text-decoration: none;
 }
-
